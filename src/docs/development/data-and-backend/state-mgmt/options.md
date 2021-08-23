@@ -155,8 +155,20 @@ An approach similar to Provider that is compile-safe and testable. It doesn't ha
 ## states_rebuilder
 An approach that combines state management with a dependency injection solution
 and an integrated router. For more information, see the following info:
+
 * [States Rebuilder][] project code
 * [States Rebuilder Documentation][]
+
+## Dart Board
+
+A modular feature management framework for flutter. It's designed to help encapsulate and isolate features. Includes examples/frameworks, small kernel and many ready to use decoupled features such as debugging, logging, auth, redux, locator, particle system and more.
+
+* [Dart Board - Homepage + Demos][]
+* [Dart Board - Core Package][]
+* [Dart Board - Github][]
+* [Dart Board - Getting Started][]
+* [Dart Board - Features][]
+
 
 [States Rebuilder]: {{site.github}}/GIfatahTH/states_rebuilder
 [States Rebuilder Documentation]: {{site.github}}/GIfatahTH/states_rebuilder/wiki
@@ -211,3 +223,10 @@ and an integrated router. For more information, see the following info:
 [Binder package]: https://pub.dev/packages/binder
 [Binder examples]: https://github.com/letsar/binder/tree/main/examples
 [Binder snippets]: https://marketplace.visualstudio.com/items?itemName=romain-rastel.flutter-binder-snippets
+[Dart Board - Homepage + Demos]: https://dart-board.io
+[Dart Board - Core Package]: https://pub.dev/packages/dart_board_core
+[Dart Board - Github]: https://github.com/ahammer/dart_board
+[Dart Board - Getting Started]: https://github.com/ahammer/dart_board/blob/master/GETTING_STARTED.md
+[Dart Board - Features]:  https://pub.dev/publishers/dart-board.io/packages
+
+
